@@ -1,0 +1,10 @@
+Pride and Prejudice;Fiction;1813;Jane Austen
+The Silmarillion;Fantasy;1977;J.R.R. Tolkien
+Good Omens;Fiction;1990;Neil Gaiman;Terry Pratchett
+The Selfish Gene;Non-fiction;1976;Richard Dawkins
+To Kill a Mockingbird;Fiction;1960;Harper Lee
+The Name of the Wind;Fantasy;2007;Patrick Rothfuss
+Sapiens;Non-fiction;2011;Yuval Noah Harari
+The Road;Fiction;2006;Cormac McCarthy
+The Fellowship of the Ring;Fantasy;1954;J.R.R. Tolkien
+Cosmos;Non-fiction;1980;Carl Sagan
