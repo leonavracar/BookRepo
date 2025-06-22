@@ -2,6 +2,8 @@
 
 A simple C++ command-line interface (CLI) application to manage a repository of books and authors. This project demonstrates object-oriented design principles including dynamic memory management, reference tracking, and role-based access control via the State pattern.
 
+📄 [Read the full documentation (PDF)](https://github.com/leonavracar/BookRepo/blob/main/BookRepo_Documentation.pdf)
+
 ## Features
 
 - Add, display, and delete books with one or multiple authors
